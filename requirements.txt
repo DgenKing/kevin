@@ -1,0 +1,4 @@
+ccxt
+torch
+stable-baselines3
+pyyaml
